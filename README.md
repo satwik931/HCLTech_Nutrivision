@@ -154,3 +154,26 @@ Final results are printed:
 ## Conclusion
 
 This system builds a practical GenAI-powered assistant for telecom ticket resolution using real industry workflows. It retrieves past issues, compares similarity, produces actionable solutions, and improves support efficiency.
+
+## Contributions
+# Satvik
+Led thepreparation of the project presentation (PPT)
+Performed detailed problem statement analysis and requirement breakdown
+
+# Sai Teja
+Designed and implemented the RAG (Retrieval-Augmented Generation) pipeline
+Developed embedding generation and vector search workflow (SentenceTransformers + FAISS)
+Integrated retrieval steps with the LLM solution-generation module
+
+# Praveen
+Co-developed the RAG pipeline alongside Sai Teja with equal contribution
+Worked on embedding generation, FAISS indexing, and optimization
+Assisted in debugging and improving retrieval accuracy and system performance
+
+# Anurag
+Managed dataset collection, cleaning, preprocessing, and formatting
+Ensured compatibility of dataset structure with embeddings and RAG architecture
+
+# Rohan
+Developed the user interface (UI) for interacting with the system
+Integrated back-end outputs into a clean, user-friendly front-end experience
